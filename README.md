@@ -1,5 +1,5 @@
 ### I CAME HERE TO WRITE CODE AND CHEW PASTURES
-![](https://avatars2.githubusercontent.com/u/6123217?s=400&u=b80a6002e4535e519075632dab826d68bb4b7137&v=4)
+![](https://assets.entrepreneur.com/content/3x2/2000/20151103215252-unicorn-rainbow-magical-fiction-beautiful.jpeg?width=700&crop=2:1)
 <!--
 **PunkUnicorn/PunkUnicorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
