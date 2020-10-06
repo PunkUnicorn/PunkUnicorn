@@ -1,5 +1,5 @@
 # I CAME HERE TO WRITE CODE AND CHEW PASTURES
-![](.\0.jpg)
+![](0.jpg)
 <!--
 **PunkUnicorn/PunkUnicorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
